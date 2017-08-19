@@ -12,3 +12,4 @@ This repo was created for the sole purpose of road to hire practice
 - push your changes
 - Replace the instructions in this readme with a short sentence explaining the purpose of this repo, which will be to practice today
 - Make a pull request against the original repo
+The purpose of this repo is  practice constructing javascript problems.
