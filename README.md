@@ -1,5 +1,4 @@
 # r2h-practice
-This is Practice for the Midterm
 
 - Fork this repo
 - Clone your forked repo down to your personal account
