@@ -1,5 +1,5 @@
 # r2h-practice
-This repo was created for the sole purpose of road to hire practice
+This is Practice for the Midterm
 
 - Fork this repo
 - Clone your forked repo down to your personal account
